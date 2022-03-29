@@ -1,0 +1,22 @@
+body{
+    background-color: greenyellow;
+
+}
+h1{
+    color: blue;
+    background-color: cornsilk;
+}
+#show_sketch{
+    float:right;
+}
+#timer{
+    float:right;
+    font-size: larger;
+}
+#score{
+    font-size: larger;
+}
+#drawn{
+    color: red;
+    font-size: 30px;
+}
